@@ -26,7 +26,7 @@ int main(int argc, char* argv[])
 
     SDL_SetRenderDrawColor(renderer, 0, 255, 0, 255);   // white
     SDL_RenderDrawPoint(renderer, SCREEN_WIDTH/2, SCREEN_HEIGHT/2);
-    SDL_SetRenderDrawColor(renderer, 255, 0, 0, 255);   // red
+    SDL_SetRenderDrawColor(renderer, 255, 144, 144, 255);   // red
     SDL_RenderDrawLine(renderer, 100, 100, 200, 200);
     SDL_RenderDrawPoint(renderer,  x,  y);
 	// vẽ đoạn thẳng
@@ -35,7 +35,7 @@ int main(int argc, char* argv[])
     filled_rect.y = SCREEN_HEIGHT - 150;
     filled_rect.w = 320;
     filled_rect.h = 100;
-    SDL_SetRenderDrawColor(renderer, 255, 0, 0, 255); // green
+    SDL_SetRenderDrawColor(renderer, 255, 144, 144, 255); // green
     SDL_RenderFillRect(renderer, &filled_rect);
 
     SDL_Rect filled_rectt;
@@ -43,7 +43,7 @@ int main(int argc, char* argv[])
     filled_rectt.y = SCREEN_HEIGHT - 150;
     filled_rectt.w = 400;
     filled_rectt.h = 100;
-    SDL_SetRenderDrawColor(renderer, 255, 0, 0, 255); // green
+    SDL_SetRenderDrawColor(renderer, 0, 255, 0, 255); // green
     SDL_RenderFillRect(renderer, &filled_rectt);
 
 
