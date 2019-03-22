@@ -1,0 +1,31 @@
+﻿  BaseObject.cpp
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\commonfunc.h(43): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\commonfunc.h(57): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\baseobject.cpp(8): warning C4553: '==': result of expression not used; did you intend '='?
+  main.cpp
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\commonfunc.h(43): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\commonfunc.h(57): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  MainPlayer.cpp
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\commonfunc.h(43): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\commonfunc.h(57): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(82): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(83): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(139): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(168): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(169): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(171): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(172): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(188): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(197): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(206): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(207): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(209): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(210): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(218): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(229): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\mainplayer.cpp(243): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  map_game.cpp
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\commonfunc.h(43): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+c:\users\cotarna\desktop\sdl_tutorial\sdl_tutorial\commonfunc.h(57): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  Generating Code...
+  SDL_tutorial.vcxproj -> C:\Users\Cotarna\Desktop\SDL_tutorial\Debug\SDL_tutorial.exe
