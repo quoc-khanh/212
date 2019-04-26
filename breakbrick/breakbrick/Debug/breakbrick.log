@@ -1,0 +1,5 @@
+﻿  game.cpp
+d:\breakbrick\breakbrick\game.cpp(74): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  breakbrick.vcxproj -> D:\breakbrick\Debug\breakbrick.exe
